@@ -1,3 +1,0 @@
-//COINFLIP-FUNCTIONS
-
-int randoNUMBER
